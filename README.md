@@ -2,6 +2,8 @@
 
 This is my first GO project to learn the programming language :-)
 
+[![asciicast](https://asciinema.org/a/538472.svg)](https://asciinema.org/a/538472)
+
 ## What can dnsq do for you?
 
 dnsq has several options to check with the SOA serial if the replication of zones are completed.
